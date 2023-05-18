@@ -3,6 +3,9 @@ Filtering of Applicants from Jobs/Flats/other using NLP techniques
 Data stemming from PDF of applications from WGZimmer.ch. 
 The emails were printed to PDF using outlook.
 
+Each email was then separated into separate texts saved into data/application_no*.txt
+During this step, names, emails and phone numbers were anonymized.
+
 ## Getting to run
 
 1. Set up your environment
